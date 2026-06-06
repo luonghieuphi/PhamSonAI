@@ -1,0 +1,6 @@
+{
+  "name": "AI Design Assistant",
+  "description": "Trình trợ lý chuẩn bị prompt cao cấp cho thiết kế hình ảnh, poster, bao bì, banner quảng cáo, mockup và video Veo 3 chuyên nghiệp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
